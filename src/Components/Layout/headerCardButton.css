@@ -1,0 +1,44 @@
+.headerCartButton
+{
+   background-color: rgba(0, 0, 0, 0.65);
+   width: 12rem;
+   height: 3rem;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   padding: 1.2rem 0.8rem;
+   gap: 1rem;
+   border-radius: 0.8rem;
+   border: none;
+
+}
+.appName
+{
+   color: white;
+}
+
+.headerCartButton:hover 
+{
+   border: 0.18rem solid yellow;
+   scale: 0.98;
+   background-color: transparent;
+   
+
+}
+
+.foodCount 
+{
+   background-color: yellow;
+  font-size: 0.8rem;
+   border-radius: 50%;
+   padding: 0.5rem;
+   
+}
+
+.foodName
+{
+   font-size: 0.8rem;
+   font-weight: bold;
+   color: white;
+
+}

@@ -1,0 +1,37 @@
+.header
+{
+    display: flex;
+    flex-direction: column;
+    
+    width: 100vw;
+    height: 12rem;
+    justify-content: space-around;
+    align-items: center;
+    height: fit-content;
+}
+.banner
+{
+    display: flex;
+    justify-content: space-around;
+    width: 100vw;
+    gap: 15rem;
+    background-color: red;
+    height: 5rem;
+    align-items: center;
+}
+
+button
+{
+    width: 5rem;
+    height: 2.5rem;
+}
+.header , h2 
+{
+    font-size: 2.5rem;
+}
+
+.foodImage 
+{
+    width: 100vw;
+    height: 20rem;
+}

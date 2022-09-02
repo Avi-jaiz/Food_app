@@ -1,0 +1,15 @@
+.mealSummary
+{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   background-color: rgba(0,0,0,0.7);
+   width: 75vw;
+   height: 25vh;
+   z-index: 2;
+   color: honeydew;
+   gap: 1.2rem;
+   border-radius: 1.2rem;
+   box-shadow: 8px 12px 20px black;
+}
