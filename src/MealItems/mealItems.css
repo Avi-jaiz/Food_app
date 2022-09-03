@@ -2,10 +2,12 @@
 {
     display: flex;
     flex-direction: row;
- 
+  justify-content:space-between;
     align-items: center;
+    width:45vw;
     
 gap: 1.2rem;
+
 
    
 }
@@ -22,4 +24,5 @@ gap: 1.2rem;
 {
     color: maroon;
     font-size: 1.2rem;
+    font-weight: bold;
 }

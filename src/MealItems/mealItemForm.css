@@ -1,0 +1,31 @@
+.mealItemForm
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.foodName
+{
+   
+    color: black;
+}
+
+
+.formInput
+{
+    width: 10rem;
+    height: 2.1rem;
+}
+
+.formButton
+{
+    width: 5rem;
+    height: 2.2rem;
+    background-color: rgb(239, 132, 9);
+    color: white;
+    border: none;
+    font-size: 1rem;
+    font-weight: bold;
+}
